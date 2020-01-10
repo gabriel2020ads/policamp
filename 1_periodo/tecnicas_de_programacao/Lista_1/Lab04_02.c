@@ -1,4 +1,4 @@
-// Emanoelle Luanda F. S. Brito - RA 2019740696
+// Emanoelle Luanda F. S. Brito - RA 2019740696 - CEO da Luanda's Corporation S.A.
 
 #include <stdio.h>
 
